@@ -2,3 +2,23 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 #Sample Player Data
+database = {
+    "Mike Trout": {"team": "Los Angeles Angels", "position": "CF", "age": 34},
+        "Average Exit Velocity": 92.3,
+        "Max Exit Velocity": 115.2,
+        "Average Launch Angle": 14.5,
+        "Hard Hit %": 45.6
+},
+    "Aaron Judge": {"team": "New York Yankees", "position": "RF", "age": 33},
+        "Average Exit Velocity": 95.8,
+        "Max Exit Velocity": 121.1,
+        "Average Launch Angle": 16.4,
+        "Hard Hit %": 50.2
+    },
+    "Shohei Ohtani": {"team": "Los Angeles Angels", "position": "DH", "age": 31},
+    "Average Exit Velocity": 93.5,
+    "Max Exit Velocity": 118.0,
+    "Average Launch Angle": 15.2,
+    "Hard Hit %": 48.3
+    }
+}
