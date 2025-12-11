@@ -1,0 +1,12 @@
+{
+    "Mike Trout": {
+        "Average Exit Velocity": 92.3,
+        "Max Exit Velocity": 115.2,
+        "Launch Angle Avg": 14.7
+    },
+    "Aaron Judge": {
+        "Average Exit Velocity": 95.8,
+        "Max Exit Velocity": 121.1,
+        "Launch Angle Avg": 16.4
+    }
+}
